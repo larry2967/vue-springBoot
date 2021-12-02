@@ -1,0 +1,3 @@
+[submodule "vue_frontend"]
+	path = vue_frontend
+	url = git@github.com:larry2967/vue_customer.git
